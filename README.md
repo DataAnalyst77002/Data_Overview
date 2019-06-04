@@ -1,9 +1,9 @@
 ### Data Analytic/Science Overview ###
 ![DataAnalysis](data_overview.png)
 
-I recently (May 2019) completed a Data Analytics/Science Program at Rice University in Houston, Texas. This fast-paced, dynamic program covers the specialized skills for the booming field of data, including: Advanced Excel, Python, JavaScript (D3.js, Leaflet.js), HTML5/CSS, API Interactions, Social Media Mining, SQL, Tableau, Advanced Statistics, Machine Learning, R, Git/GitHub, and more.
+Recently (May 2019) completed a Data Analytics/Science Program at Rice University in Houston, Texas. This fast-paced, dynamic program covers the specialized skills for the booming field of data, including: Advanced Excel, Python, JavaScript (D3.js, Leaflet.js), HTML5/CSS, API Interactions, Social Media Mining, SQL, Tableau, Advanced Statistics, Machine Learning, R, Git/GitHub, and more.
 
-I gained real-world experience by collaborating with my peers on complex projects. I built a portfolio along the way. The curriculum dived into the foundational skills for data analytics, including:
+Gained real-world experience by collaborating with my peers on complex projects. I built a portfolio along the way. The curriculum dived into the foundational skills for data analytics, including:
 
 **ETL (Export, Tranform, and Load)**
 
