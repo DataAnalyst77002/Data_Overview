@@ -1,4 +1,4 @@
-### Data Analytic/Science Overview ###
+### DATA ANALYTICS/SCIENCE OVERVIEW ###
 ![RiceLogo](rice_logo.png)
 ![DataAnalysis](data_overview.png)
 
