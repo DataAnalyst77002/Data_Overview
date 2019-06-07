@@ -6,7 +6,7 @@ Recently (May 2019) completed a Data Analytics/Science Program at Rice Universit
 
 Gained real-world experience by collaborating with my peers on complex projects. I built a portfolio along the way. The curriculum dived into the foundational skills for data analytics, including:
 
-**ETL (Export, Tranform, and Load)**
+**ETL (Export, Transform, and Load)**
 
 
 **Advanced Excel**
